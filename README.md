@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-pristonvinicius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pristonvinicius@gmail.com)](mailto:pristonvinicius@gmail.com)
 [![Gitlab Badge](https://img.shields.io/badge/-@Iagopixel-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Iago-pixel)](https://gitlab.com/Iago-pixel)
 
+
 # Sobre mim
 
 <p>Sou um desenvolvedor fullstack formado na Kenzie Academy Br. Lá fiz vários projetos tanto no front como no back, tando solo como em grupo, em vezes usando metodologias SCRUM e kanban. Também fui monitor da kenzie e ajudei outros alunos a desenvolverem suas habilidades. Além de desenvolver as hard skills, também desenvolvi soft skills como aprender a aprender, comprometimento, proatividade, responsabilidade, dar e receber feedback, dentre outros.</p>
@@ -61,3 +62,16 @@ Here are some ideas to get you started:
 ![Flask badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Cassandra Badge](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white)
+![Gimp Badge](https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![Freelancer Badge](https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat-square)
